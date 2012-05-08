@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/audio/analysis/class-use
+END
+KissFFT.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/audio/analysis/class-use/KissFFT.html
+END
+AudioTools.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/audio/analysis/class-use/AudioTools.html
+END
+FFT.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/audio/analysis/class-use/FFT.html
+END
+ThresholdFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/audio/analysis/class-use/ThresholdFunction.html
+END
+DFT.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/audio/analysis/class-use/DFT.html
+END
+NativeFFT.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/audio/analysis/class-use/NativeFFT.html
+END
+FourierTransform.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/audio/analysis/class-use/FourierTransform.html
+END

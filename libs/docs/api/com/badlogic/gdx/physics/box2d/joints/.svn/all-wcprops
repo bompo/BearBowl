@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/joints
+END
+LineJoint.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/joints/LineJoint.html
+END
+DistanceJoint.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/joints/DistanceJoint.html
+END
+FrictionJointDef.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/joints/FrictionJointDef.html
+END
+PulleyJointDef.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/joints/PulleyJointDef.html
+END
+PulleyJoint.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/joints/PulleyJoint.html
+END
+DistanceJointDef.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/joints/DistanceJointDef.html
+END
+FrictionJoint.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/joints/FrictionJoint.html
+END
+LineJointDef.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/joints/LineJointDef.html
+END
+GearJointDef.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/joints/GearJointDef.html
+END
+PrismaticJointDef.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/joints/PrismaticJointDef.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/joints/package-frame.html
+END
+MouseJoint.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/joints/MouseJoint.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/joints/package-tree.html
+END
+RevoluteJoint.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/joints/RevoluteJoint.html
+END
+WeldJoint.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/joints/WeldJoint.html
+END
+RevoluteJointDef.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/joints/RevoluteJointDef.html
+END
+WeldJointDef.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/joints/WeldJointDef.html
+END
+MouseJointDef.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/joints/MouseJointDef.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/joints/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/joints/package-summary.html
+END
+PrismaticJoint.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/joints/PrismaticJoint.html
+END
+GearJoint.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/joints/GearJoint.html
+END

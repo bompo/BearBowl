@@ -1,0 +1,44 @@
+10
+
+dir
+35
+http://svn3.xp-dev.com/svn/RedLionGameJam/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/backends
+http://svn3.xp-dev.com/svn/RedLionGameJam
+
+
+
+2011-03-14T14:32:23.531828Z
+3
+bompo
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+63d55d1e-dd53-4132-adf2-da3b279acf2a
+
+
+
+
+
+
+0
+
+android
+dir
+
+jogl
+dir
+
+lwjgl
+dir
+

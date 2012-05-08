@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d
+END
+Box2DDebugRenderer.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/Box2DDebugRenderer.html
+END
+ContactFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/ContactFilter.html
+END
+Filter.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/Filter.html
+END
+ContactListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/ContactListener.html
+END
+World.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/World.html
+END
+CircleShape.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/CircleShape.html
+END
+JointDef.JointType.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/JointDef.JointType.html
+END
+RayCastCallback.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/RayCastCallback.html
+END
+QueryCallback.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/QueryCallback.html
+END
+Transform.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/Transform.html
+END
+Joint.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/Joint.html
+END
+Fixture.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/Fixture.html
+END
+BodyDef.BodyType.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/BodyDef.BodyType.html
+END
+JointEdge.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/JointEdge.html
+END
+PolygonShape.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/PolygonShape.html
+END
+Shape.Type.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/Shape.Type.html
+END
+DestructionListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/DestructionListener.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/package-frame.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/package-tree.html
+END
+BodyDef.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/BodyDef.html
+END
+Body.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/Body.html
+END
+WorldManifold.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/WorldManifold.html
+END
+Shape.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/Shape.html
+END
+Contact.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/Contact.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/package-summary.html
+END
+MassData.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/MassData.html
+END
+FixtureDef.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/FixtureDef.html
+END
+JointDef.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/physics/box2d/JointDef.html
+END

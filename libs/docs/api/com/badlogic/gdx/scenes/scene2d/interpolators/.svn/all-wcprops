@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/scenes/scene2d/interpolators
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/scenes/scene2d/interpolators/package-frame.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/scenes/scene2d/interpolators/package-tree.html
+END
+AccelerateInterpolator.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/scenes/scene2d/interpolators/AccelerateInterpolator.html
+END
+DecelerateInterpolator.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/scenes/scene2d/interpolators/DecelerateInterpolator.html
+END
+AnticipateInterpolator.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/scenes/scene2d/interpolators/AnticipateInterpolator.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/scenes/scene2d/interpolators/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/scenes/scene2d/interpolators/package-summary.html
+END
+LinearInterpolator.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RedLionGameJam/!svn/ver/3/GameJam_Prot1/libs/docs/api/com/badlogic/gdx/scenes/scene2d/interpolators/LinearInterpolator.html
+END
